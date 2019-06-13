@@ -1,21 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div {
-  margin: 70px;
-  border: 1px solid #4CAF50;
-}
+
 p {
-    color: rgb(25, 0, 255);
+    color: rgb(132, 0, 255);
     font-size: 20px;
-    font-family: Arial;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: Italic;
+    text-indent: 50px;
   }
-</style>
-</head>
-<body>
-
-<div>This element has a margin of 70px.</div>
-
-</body>
-</html>
+  h1{
+    color: purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  h2{
+    color: rgb(132, 0, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  h3{
+    color: rgb(132, 0, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  body{
+    background-color: rgb(0, 255, 170);
+  }
