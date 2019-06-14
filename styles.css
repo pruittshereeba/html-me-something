@@ -6,7 +6,7 @@ p {
     font-style: Italic;
     text-indent: 50px;
   }
-  h1{
+  #heading{
     color: purple;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
@@ -14,7 +14,7 @@ p {
     color: rgb(132, 0, 255);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
-  h3{
+  .location{
     color: rgb(132, 0, 255);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
